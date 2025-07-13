@@ -138,4 +138,4 @@ This write-up is for educational purposes and authorized (By Intigriti Challenge
 Feel free to reach out for questions or collaboration.
 - Mail: mwmsadik@gmail.com
 - Mohamed Sadik
-- **Keep exploring. Keep learning. Break it to understand it.**
+- **Don't just code it. Understand it. Break it. Rebuild it better.**
