@@ -94,7 +94,9 @@ An alert box pops up showing:
 challenge-0724.intigriti.io
 ```
 The Screenshot of the pop up showing
-![Popup Alert](popup_screenshot.png)
+![Popup Alert](https://raw.githubusercontent.com/sad73/CTF-s/31b1b9267165d915d0ce20ca8504aa1479bc3699/DOM_XSS.png)
+
+
 
 ---
 
