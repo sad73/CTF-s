@@ -93,8 +93,8 @@ An alert box pops up showing:
 ```go
 challenge-0724.intigriti.io
 ```
-I have Provided the screenshot.
-This confirms the CSP bypass and successful remote script execution.
+The Screenshot of the pop up showing
+![Popup Alert](popup_screenshot.png)
 
 ---
 
